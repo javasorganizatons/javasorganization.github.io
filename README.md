@@ -26,9 +26,7 @@
 
 ### Активные проекты:
 
-1. **[Project Alpha](https://github.com/javas-organization/project-alpha)** – Микросервисная платформа
-2. **[Java Utils](https://github.com/javas-organization/java-utils)** – Библиотека полезных утилит
-3. **[Learning Hub](https://github.com/javas-organization/learning-hub)** – Образовательные материалы
+-Ещё не разрабатываються
 
 ## 🤝 Как присоединиться
 
